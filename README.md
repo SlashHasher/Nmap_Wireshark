@@ -72,7 +72,7 @@ Right below the FTP traffic, we can also see HTTP traffic, which is again, insec
 <br />
 <br />
   
-<h2>Conclusion</h2>
+<h2> ✅ Conclusion</h2>
 This lab demonstrated the practical use of Nmap for network reconnaissance and vulnerability enumeration, paired with Wireshark for in-depth packet analysis. By scanning a target system and inspecting captured traffic, I was able to identify open ports, running services, potential vulnerabilities, and network anomalies. The project reinforced core skills in network mapping, protocol analysis, and the importance of securing services exposed to the network. This hands-on experience served as a foundational exercise in both offensive and defensive cybersecurity techniques.
 <br />
 
