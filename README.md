@@ -52,7 +52,7 @@ This would allow an attacker full access into the system, meaning they can
 bypass any security mechanisms in place and escalate privileges and even implant backdoors to allow
 access to the system even after a reboot in completed. The target is also running widows server 2008, which also reached End of Life a while back, making it susceptible to attacks. Using the CVE
 database we can see that CVE-2019-0543 is a strong vulnerability. CVE-2019-0543 can be used to
-elevation privileges, which would allow an attacker to grant themselves more permissions any bypass
+elevation privileges, which would allow an attacker to grant themselves more permissions that can bypass
 security implication, allowing themselves access to sensitive information in the system
 <br/>
 <img src="https://i.imgur.com/cwNEDp0.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
