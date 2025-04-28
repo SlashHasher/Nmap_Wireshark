@@ -17,7 +17,7 @@ Conducted network vulnerability scanning and deep packet inspection using Nmap a
 - <b>Kali Linux VM – Host for running Nmap & Wireshark</b>
 - <b>Windows VM – Target machine for scanning</b>
 
-<h2>Project Documentation & Walkthrough:</h2>
+<h2>Project Documentation & Walkthrough </h2>
 
 
 
